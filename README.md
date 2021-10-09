@@ -1,5 +1,5 @@
-# chrisgreen1993.com
+# [ARCHIVED] chrisgreen1993.com
 
 Source for my personal site
 
-Currently in development
+Replaced by https://github.com/chrisgreen1993/blog
